@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "course_name": "Introduction to C Programming",
+      "cover_img": "https://i.ibb.co/4S3BgSj/Rectangle-2-2.png",
+      "credit_time": 1,
+      "price": 15000,
+      "course_details": "Introduction to C Programming is a foundational course with a credit time of 4 units. It covers the basics of the C programming language, teaching students the essential concepts and syntax."
+    },
+    {
+      "id": 2,
+      "course_name": "Web Development Fundamentals",
+      "cover_img": "https://i.ibb.co/brVh3Pr/Rectangle-2-3.png",
+      "credit_time": 2,
+      "price": 25000,
+      "course_details": "Web Development Fundamentals is a comprehensive course with a credit time of 5 units. It covers the essential building blocks of web development, including HTML, CSS, and JavaScript. ."
+    },
+    {
+      "id": 3,
+      "course_name": "Data Science Fundamentals",
+      "cover_img": "https://i.ibb.co/SQgRL1D/Rectangle-2-4.png",
+      "credit_time": 10,
+      "price": 10000,
+      "course_details": "Data Science Fundamentals is an in-depth course spanning 6 credit units, providing a comprehensive introduction to the field of data science. Students will learn data analysis, gaining vital skills for working with data."
+    },
+    {
+      "id": 4,
+      "course_name": "Graphic Design Mastery",
+      "cover_img": "https://i.ibb.co/80rxyFh/Rectangle-3.png",
+      "credit_time": 5,
+      "price": 35000,
+      "course_details": "Graphic Design Mastery is an advanced course focusing on the art and techniques of graphic design. Participants will develop expertise in creating visually stunning graphics and creative professionals."
+    },
+    {
+      "id": 5,
+      "course_name": "Advanced Machine Learning",
+      "cover_img": "https://i.ibb.co/Jpr78YD/Rectangle-2.png",
+      "credit_time": 5,
+      "price": 19000,
+      "course_details": "Advanced Machine Learning is an advanced-level course that delves deep into machine learning algorithms and advanced AI concepts. This course is designed for individuals seeking a comprehensive understanding of cutting-edge."
+    },
+    {
+      "id": 6,
+      "course_name": "Digital Marketing Essentials",
+      "cover_img": "https://i.ibb.co/TthBdMc/Rectangle-2-5.png",
+      "credit_time": 2,
+      "price": 23000,
+      "course_details": "Digital Marketing Essentials is a fundamental course covering the core principles of digital marketing and online advertising strategies. This course equips participants with essential skills to navigate the digital landscape."
+    },
+    {
+      "id": 7,
+      "course_name": "Mobile App Development",
+      "cover_img": "https://i.ibb.co/3hYCr2n/Rectangle-3-1.png",
+      "credit_time": 5,
+      "price": 35000,
+      "course_details": "Mobile App Development is a comprehensive course designed to teach participants how to create mobile applications for both iOS and Android platforms. Students will learn and gain hands-on experience in building mobile apps."
+    },
+    {
+      "id": 8,
+      "course_name": "Business Finance and Strategy",
+      "cover_img": "https://i.ibb.co/R7tZ9x8/Rectangle-2-1.png",
+      "credit_time": 5,
+      "price": 19000,
+      "course_details": "Business Finance and Strategy is a strategic course that provides insights into financial management and long-term planning for businesses. Participants will learn essential skills and strategies sustainable growth."
+    },
+    {
+      "id": 9,
+      "course_name": "Creative Writing Workshop",
+      "cover_img": "https://i.ibb.co/4KtS1Vw/Rectangle-2-6.png",
+      "credit_time": 2,
+      "price": 23000,
+      "course_details": "The Creative Writing Workshop is a dynamic course tailored to enhance participants' creative writing skills. This workshop fosters storytelling abilities and empowers students to craft compelling narratives and essays."
+    }
+  ]
+  

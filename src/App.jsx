@@ -1,14 +1,20 @@
 
 import './App.css'
+import Bookmarks from './Components/Bookmarks/Bookmarks'
+import Courses from './Components/Courses/Courses'
+import Header from './Components/Header/Header'
+
 
 function App() {
   
 
   return (
     <>
-       <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+       <Header></Header>
+       <div className='flex'>
+       <Courses></Courses>
+       <Bookmarks></Bookmarks>
+       </div>
     </>
   )
 }
