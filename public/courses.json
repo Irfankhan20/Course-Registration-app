@@ -5,7 +5,7 @@
       "cover_img": "https://i.ibb.co/4S3BgSj/Rectangle-2-2.png",
       "credit_time": 1,
       "price": 15000,
-      "course_details": "Introduction to C Programming is a foundational course with a credit time of 4 units. It covers the basics of the C programming language, teaching students the essential concepts and syntax."
+      "course_details": "Introduction to C Programming is a foundational course with a credit time of 4 units. It covers the basics of the C programming language, teaching students the concepts and syntax."
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
       "cover_img": "https://i.ibb.co/SQgRL1D/Rectangle-2-4.png",
       "credit_time": 10,
       "price": 10000,
-      "course_details": "Data Science Fundamentals is an in-depth course spanning 6 credit units, providing a comprehensive introduction to the field of data science. Students will learn data analysis, gaining vital skills for working with data."
+      "course_details": "Data Science Fundamentals is an in-depth course spanning 6 credit units, providing a comprehensive introduction of data science. Students will learn analysis skills for working with data."
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "cover_img": "https://i.ibb.co/Jpr78YD/Rectangle-2.png",
       "credit_time": 5,
       "price": 19000,
-      "course_details": "Advanced Machine Learning is an advanced-level course that delves deep into machine learning algorithms and advanced AI concepts. This course is designed for individuals seeking a comprehensive understanding of cutting-edge."
+      "course_details": "This course is an advanced-level course that delves deep into machine learning algorithms.This course is designed for individuals seeking a comprehensive understanding of cutting-edge."
     },
     {
       "id": 6,
@@ -45,7 +45,7 @@
       "cover_img": "https://i.ibb.co/TthBdMc/Rectangle-2-5.png",
       "credit_time": 2,
       "price": 23000,
-      "course_details": "Digital Marketing Essentials is a fundamental course covering the core principles of digital marketing and online advertising strategies. This course equips participants with essential skills to navigate the digital landscape."
+      "course_details": "Digital Marketing Essentials is a course covering the core principles of digital marketing and online advertising strategies. This course equips participants with skills to navigate the digital landscape."
     },
     {
       "id": 7,
@@ -53,7 +53,7 @@
       "cover_img": "https://i.ibb.co/3hYCr2n/Rectangle-3-1.png",
       "credit_time": 5,
       "price": 35000,
-      "course_details": "Mobile App Development is a comprehensive course designed to teach participants how to create mobile applications for both iOS and Android platforms. Students will learn and gain hands-on experience in building mobile apps."
+      "course_details": "Mobile App Development is a comprehensive course designed to teach participants how to create mobile applications for both iOS and Android.Students will learn and gain hands-on experience."
     },
     {
       "id": 8,
@@ -61,7 +61,7 @@
       "cover_img": "https://i.ibb.co/R7tZ9x8/Rectangle-2-1.png",
       "credit_time": 5,
       "price": 19000,
-      "course_details": "Business Finance and Strategy is a strategic course that provides insights into financial management and long-term planning for businesses. Participants will learn essential skills and strategies sustainable growth."
+      "course_details": "Business Finance and Strategy is a strategic course that provides insights into financial management and planning for businesses. Participants will learn skills and strategies sustainable growth."
     },
     {
       "id": 9,
@@ -69,7 +69,7 @@
       "cover_img": "https://i.ibb.co/4KtS1Vw/Rectangle-2-6.png",
       "credit_time": 2,
       "price": 23000,
-      "course_details": "The Creative Writing Workshop is a dynamic course tailored to enhance participants' creative writing skills. This workshop fosters storytelling abilities and empowers students to craft compelling narratives and essays."
+      "course_details": "The Creative Writing Workshop is a tailored to enhance participants' creative writing skills. This workshop fosters storytelling abilities and empowers students to craft compelling narratives."
     }
   ]
   
