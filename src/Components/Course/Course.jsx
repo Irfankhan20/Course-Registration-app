@@ -3,7 +3,7 @@ import { FaDollarSign, FaBookOpen } from 'react-icons/fa';
 
 
 const Course = ({ course, handleAddToBookmark}) => {
-    const { course_name, cover_img, credit_time, price, course_details } = course;
+    const { course_name, id, cover_img, credit_time, price, course_details } = course;
     return (
         <div className=' container text-center bg-[#FFFFFF] rounded-lg mb-6'>
             <img className='my-4 mt-4 mx-auto px-4' src={cover_img} alt="" />
@@ -19,7 +19,7 @@ const Course = ({ course, handleAddToBookmark}) => {
                     <p className='text-[#1C1B1B99] font-medium'>Credit : {credit_time}hr</p>
                 </div>
             </div>
-            <button onClick={() => handleAddToBookmark(course)} className='mt-6 mb-4 w-[90%] bg-[#2F80ED] text-white border rounded-lg px-28 py-2 text-lg font-semibold'>Select</button>
+            <button onClick={() => handleAddToBookmark(id, course, credit_time, price)} className='mt-6 mb-4 w-[90%] bg-[#2F80ED] text-white border rounded-lg px-28 py-2 text-lg font-semibold'>Select</button>
         </div>
     );
 };

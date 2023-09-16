@@ -4,7 +4,7 @@ const Bookmark = ({bookmark}) => {
     const {course_name} = bookmark;
     return (
         <div className=''>
-            <h3 className=''>{course_name}</h3>
+            <h3 className='text-[#1C1B1B99] font-normal leading-7'>{course_name}</h3>
         </div>
     );
 };
